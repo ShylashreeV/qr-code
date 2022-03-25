@@ -20,12 +20,12 @@ img{
 body{
     font-family: "outfit", sans-serif;
     font-size: 15px;
-    background-color: var(--Grayish-blue);
+    background-color: var(--light-gray);
     display:flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height:calc(100vh-1px);
+    height:calc(100vh-100px);
     margin:1.25rem;
 }
 .container{
