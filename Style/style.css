@@ -25,13 +25,12 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height:calc(100vh-100px);
-    margin:1.25rem;
+    min-height: 100vh;
+    margin:0;
 }
 .container{
     background-color: var(--White);
     padding: 1.10rem;
-    margin: 100px;
     border-radius: 0.925rem;
     box-shadow: 5px 5px 5px rgba(0,0,0,0.05);
     display: flex;
